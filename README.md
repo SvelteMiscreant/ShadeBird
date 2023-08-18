@@ -19,7 +19,7 @@ Backend is developed using django.
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/SvelteMiscreant/ShadeBird.git
 ```
 
 
